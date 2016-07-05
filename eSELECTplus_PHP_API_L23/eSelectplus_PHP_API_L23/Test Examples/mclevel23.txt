@@ -1,0 +1,43 @@
+<mc_addendum1>
+  <customer_code>ACCOUNTING OPERAT</customer_code>
+  <tax_amount>0.98</tax_amount>
+  <freight_amount>0.0</freight_amount>
+  <ship_to_pos_code>V6Z 2V8</ship_to_pos_code>
+  <ship_from_pos_code>V6Z 2V8</ship_from_pos_code>
+  <duty_amount>0.0</duty_amount>
+  <alt_tax_amt_ind>Y</alt_tax_amt_ind>
+  <alt_tax_amt>0.0</alt_tax_amt>
+  <des_cou_code>CAN</des_cou_code>
+  <sup_data>MASTERCARD</sup_data>
+  <sal_tax_col_ind>Y</sal_tax_col_ind>
+</mc_addendum1>
+<mc_addendum2>
+  <product_code>OPTIBELT 4L2</product_code>
+  <item_description>OPTIBELT 4L250 FHP BELT</item_description>
+  <item_quantity>2</item_quantity>
+  <item_uom>EA</item_uom>
+  <ext_item_amount>6.96</ext_item_amount>
+  <discount_ind>N</discount_ind>
+  <discount_amount>0</discount_amount>
+  <net_gro_ind_for_ext_item_amt>N</net_gro_ind_for_ext_item_amt>
+  <tax_rate_app>0.0</tax_rate_app>
+  <tax_type_app></tax_type_app>
+  <tax_amount></tax_amount>
+  <debit_credit_ind>D</debit_credit_ind>
+  <alt_tax_ide_amt></alt_tax_ide_amt>
+</mc_addendum2>
+<mc_addendum2>
+  <product_code>OPTIBELT 4L2</product_code>
+  <item_description>OPTIBELT 4L260 FHP BELT</item_description>
+  <item_quantity>2</item_quantity>
+  <item_uom>EA</item_uom>
+  <ext_item_amount>6.96</ext_item_amount>
+  <discount_ind>N</discount_ind>
+  <discount_amount>0</discount_amount>
+  <net_gro_ind_for_ext_item_amt>N</net_gro_ind_for_ext_item_amt>
+  <tax_rate_app>0.0</tax_rate_app>
+  <tax_type_app></tax_type_app>
+  <tax_amount></tax_amount>
+  <debit_credit_ind>D</debit_credit_ind>
+  <alt_tax_ide_amt></alt_tax_ide_amt>
+</mc_addendum2>

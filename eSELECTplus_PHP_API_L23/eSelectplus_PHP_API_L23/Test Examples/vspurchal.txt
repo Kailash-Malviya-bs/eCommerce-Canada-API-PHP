@@ -1,0 +1,59 @@
+<purcha>
+  <duty_amount>1.00</duty_amount>
+  <ship_to_pos_code>M8X 2W8</ship_to_pos_code>
+  <ship_from_pos_code>M1K 2Y7</ship_from_pos_code>
+  <des_cou_code>Canada</des_cou_code>
+  <vat_ref_num>VAT12345</vat_ref_num>
+  <vat_tax_amt_fre_ship>0.12</vat_tax_amt_fre_ship>
+  <vat_tax_rate_fre_ship>7.00</vat_tax_rate_fre_ship>
+</purcha>
+<purchl>
+  <item_com_code>CC01</item_com_code>
+  <item_description>CC01 descr</item_description>
+  <item_quantity>1</item_quantity>
+  <item_uom>EA</item_uom>
+  <unit_cost>1.01</unit_cost>
+  <vat_tax_amt>0</vat_tax_amt>
+  <vat_tax_rate>0</vat_tax_rate>
+  <discount_amt>0</discount_amt>
+</purchl>
+<purchl>
+  <product_code>VP02</product_code>
+  <item_description>VP02 descr</item_description>
+  <item_quantity>2</item_quantity>
+  <item_uom>EA</item_uom>
+  <unit_cost>2.35</unit_cost>
+  <vat_tax_amt>0</vat_tax_amt>
+  <vat_tax_rate>0</vat_tax_rate>
+  <discount_amt>0</discount_amt>
+</purchl>
+<purchl>
+  <product_code>Freight/Shipping</product_code>
+  <item_description>Freight/Shipping</item_description>
+  <item_quantity>1</item_quantity>
+  <item_uom>EA</item_uom>
+  <unit_cost>1.69</unit_cost>
+  <vat_tax_amt>0</vat_tax_amt>
+  <vat_tax_rate>0</vat_tax_rate>
+  <discount_amt>0</discount_amt>
+</purchl>
+<purchl>
+  <product_code>VP04</product_code>
+  <item_description>VP04 descr</item_description>
+  <item_quantity>4</item_quantity>
+  <item_uom>CMT</item_uom>
+  <unit_cost>3.34</unit_cost>
+  <vat_tax_amt>0.94</vat_tax_amt>
+  <vat_tax_rate>7.00</vat_tax_rate>
+  <discount_amt>0</discount_amt>
+</purchl>
+<purchl>
+  <product_code>Discount</product_code>
+  <item_description>Discount</item_description>
+  <item_quantity>1</item_quantity>
+  <item_uom>EA</item_uom>
+  <unit_cost>0.23</unit_cost>
+  <vat_tax_amt>0</vat_tax_amt>
+  <vat_tax_rate>0</vat_tax_rate>
+  <discount_amt>0.23</discount_amt>
+</purchl>

@@ -1,0 +1,5 @@
+eSELECTplus_PHP_API_v254-Vault
+-Added ResCardVerificationCC transaction
+
+eSELECTplus_PHP_API_v253-Vault
+-Added data_key_format functionality

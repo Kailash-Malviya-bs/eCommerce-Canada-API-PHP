@@ -1,0 +1,44 @@
+<axlevel23>
+  <table1>
+    <big04>11119</big04>
+    <big05>097915-00</big05>
+    <n1_loop>
+      <n101>R6</n101><n102>NESTLE CANADA INC</n102>
+      <n301>55 CARRIERDR</n301><n302>ETOBICOKE         ON  M9W 5V9</n302>
+      <n401>ETOBICOKE</n401><n402>ON</n402><n403>M9W5V9</n403>
+      <ref><ref01>4C</ref01><ref02>ON</ref02></ref>
+      <ref><ref01>CR</ref01><ref02>16802309</ref02></ref>
+    </n1_loop>
+  </table1>
+  <table2>
+    <it1_loop>
+      <it102>2</it102><it103>EA</it103><it104>40.00</it104>
+      <it106s><it10618>VP</it10618><it10719>C4844A</it10719></it106s>
+      <txi><txi01>GS</txi01><txi02>5.60</txi02></txi>
+      <txi><txi01>PG</txi01><txi02>6.40</txi02></txi>
+      <pam05>80.00</pam05>
+      <pid05>INKJET CART. HP NO.10 BLK</pid05>
+    </it1_loop>
+    <it1_loop>
+      <it102>2</it102><it103>EA</it103><it104>84.99</it104>
+      <it106s><it10618>VP</it10618><it10719>C4805A</it10719></it106s>
+      <txi><txi01>GS</txi01><txi02>11.90</txi02></txi>
+      <txi><txi01>PG</txi01><txi02>13.60</txi02></txi>
+      <pam05>169.98</pam05>
+      <pid05>HP-12 MAGENTA INKJET CARTRIDGE</pid05>
+    </it1_loop>
+    <it1_loop>
+      <it102>1</it102><it103>EA</it103><it104>84.90</it104>
+      <it106s><it10618>VP</it10618><it10719>C4804A</it10719></it106s>
+      <txi><txi01>GS</txi01><txi02>5.94</txi02></txi>
+      <txi><txi01>PG</txi01><txi02>6.79</txi02></txi>
+      <pam05>84.90</pam05>
+      <pid05>HP-12 CYAN INKJET CARTRIDGE</pid05>
+    </it1_loop>
+  </table2>
+  <table3>
+    <txi><txi01>GS</txi01><txi02>23.44</txi02></txi>
+    <txi><txi01>PG</txi01><txi02>26.79</txi02></txi>
+    <txi><txi01>TX</txi01><txi02>50.23</txi02></txi>
+  </table3>
+</axlevel23>
